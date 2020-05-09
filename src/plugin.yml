@@ -1,0 +1,6 @@
+name: System
+author: balu
+version: 1.0
+main: pw.juniq.main.Main
+commands:
+
