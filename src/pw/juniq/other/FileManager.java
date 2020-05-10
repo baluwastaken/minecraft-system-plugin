@@ -9,4 +9,6 @@ public class FileManager {
     public static YamlConfiguration MaintenanceConfiguration = YamlConfiguration.loadConfiguration(MaintenanceFile);
     public static File UserFile = new File("plugins/System/users.yml");
     public static YamlConfiguration UserConfiguration = YamlConfiguration.loadConfiguration(UserFile);
+    public static File SpyFile = new File("plugins/System/spy.yml");
+    public static YamlConfiguration SpyConfiguration = YamlConfiguration.loadConfiguration(SpyFile);
 }
