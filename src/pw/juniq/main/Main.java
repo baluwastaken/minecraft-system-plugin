@@ -4,7 +4,6 @@ import org.bukkit.Bukkit;
 import org.bukkit.plugin.PluginManager;
 import org.bukkit.plugin.java.JavaPlugin;
 import pw.juniq.listener.*;
-import pw.juniq.command.*;
 
 public class Main extends JavaPlugin {
     private static String version = "1.0";
